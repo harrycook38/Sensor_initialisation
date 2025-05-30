@@ -1,4 +1,4 @@
-# Optimisation protocol which permutes sensor parameters to reach optimimum performance.
+# Optimisation protocol for NMOR Gradiometer
 
 ## OVERVIEW
 
