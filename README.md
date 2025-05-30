@@ -34,13 +34,14 @@ Course search and model selection:
 
 
 Laser optimisation: 
+
 ![long_opt](https://github.com/user-attachments/assets/eab6bcb3-011e-49d8-97a3-d1892546b25e)
 
 Example result: 
+
 ![laser_optimised_2](https://github.com/user-attachments/assets/a2074697-0a4f-420d-91bb-2fef2a86132e)
 
 ### Appendix
-
 setbias.py is a standalone python-executable bias coil setting programme.
 
 
