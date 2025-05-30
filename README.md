@@ -1,6 +1,6 @@
 # Optimisation protocol for NMOR Gradiometer
 
-## OVERVIEW
+## Overview
 
 Our sensor produces two NMOR resonances. We want to overlap these resonances in frequency space. The linear combination of two lorentzians results in one larger resonance (see details https://iopscience.iop.org/article/10.1088/2058-9565/ad3d81). 
 
