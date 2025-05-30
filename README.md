@@ -6,7 +6,7 @@ Our sensor produces two NMOR resonances. We want to overlap these resonances in 
 
 In this protol, we permute bias field and laser detuning to reach an optimal gradiometer.
 
-In order to measure optimal resonance, we must fit data to a model. Our models are a single and double lorentzian, with the aim of merging the two resoances into one. We guess model parameters using a differential evolution algorithm, which works iteratively based on the given signal, to minimise sum-of-squared error. Once these parameters are guessed, we fit both a single and double lorentzian to the data. 
+In order to measure optimal resonance, we must fit data to a model. Our models are a single and double lorentzian, with the aim of merging the two resonances into one. We guess model parameters using a differential evolution algorithm, which works iteratively based on the given signal, to minimise sum-of-squared error. Once these parameters are guessed, we fit both a single and double lorentzian to the data. 
 
 With a double and single lorentzian fitted to the data, we use the Akaike Information Criterion (AIC) to compare the models. When the single outperforms the double, we can assume that we are close to overlapping. We can then refine this single lorentzian to optimise the sensor.
 
