@@ -26,12 +26,21 @@ These resonances are then tunable with the following 2 parameters:
   2. Refined Bias coil stepped-tuning to maximise signal amplitude (maximum overlap) to find global maximum
   3. Laser detuning stepped-tuning to maximise Amplitude-to-width ratio (we want the maximum signal, for the longest atomic coherence time).
 
+### Example results:
+
+Course search and model selection: 
+
+![image](https://github.com/user-attachments/assets/3d3601b4-284c-45a5-83da-8ad0c81983b4)
+
+
+Laser optimisation: 
+![long_opt](https://github.com/user-attachments/assets/eab6bcb3-011e-49d8-97a3-d1892546b25e)
+
+Example result: 
+![laser_optimised_2](https://github.com/user-attachments/assets/a2074697-0a4f-420d-91bb-2fef2a86132e)
+
 ### Appendix
 
 setbias.py is a standalone python-executable bias coil setting programme.
 
-Laser optimisation: ![long_opt](https://github.com/user-attachments/assets/eab6bcb3-011e-49d8-97a3-d1892546b25e)
 
-Example result: 
-
-![laser_optimised_2](https://github.com/user-attachments/assets/a2074697-0a4f-420d-91bb-2fef2a86132e)
