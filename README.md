@@ -18,7 +18,7 @@ These resonances are then tunable with the following 2 parameters:
 
   1: Bias field - the bias field will effect the location of the resonance in frequency space. We do this by communicating with the DM-        Technologies Multichannel Current Source (https://dmtechnologies.eu/product/multichannel-current-source/). Interfacing is done along the Serial line.
 
-  2: Laser detuning - Laser detuning will effec the shape of the Lorentzian. Toptica DLC Pro has an API over ethernet, to which we can adjust the voltage on the piezo, effectively changing the frequency of the detuning.
+  2: Laser detuning - Laser detuning will effect the shape of the Lorentzian. Toptica DLC Pro has an API over ethernet, to which we can adjust the voltage on the piezo, effectively changing the frequency of the detuning.
 
 
 ## Code workflow
